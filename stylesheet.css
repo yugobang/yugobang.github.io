@@ -81,7 +81,7 @@ a:visited {
 }
 
 a:hover {
-    color: rgb(235, 70, 70)
+    color: rgb(235, 70, 70);
     text-decoration: none;
 }
 
